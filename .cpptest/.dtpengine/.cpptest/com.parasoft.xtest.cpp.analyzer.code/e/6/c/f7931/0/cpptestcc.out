@@ -1,0 +1,6 @@
+PersonNode.cpp
+"C:\Users\steph\source\repos\Eduard667\labH\LinkedLists\AddressBookSLL.h", line
+          12: error: identifier "PersonNode" is undefined
+  	PersonNode* m_head;
+  	^
+

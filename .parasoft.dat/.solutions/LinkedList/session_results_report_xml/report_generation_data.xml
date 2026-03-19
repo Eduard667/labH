@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ResultsSessionDetails>
+   <mergePnt id="locationsDetails">
+      <Locations>
+      <Loc fsPath="C:\Users\steph\source\repos\Eduard667\labH\LinkedLists\PersonNode.cpp" loc="LinkedList/LinkedList/PersonNode.cpp" projPath="LinkedList/LinkedList" project="LinkedList"/>
+      <Loc fsPath="C:\Users\steph\source\repos\Eduard667\labH\LinkedLists\PersonNode.h" loc="LinkedList/LinkedList/PersonNode.h" projPath="LinkedList/LinkedList" project="LinkedList"/>
+      <Loc fsPath="C:\Users\steph\source\repos\Eduard667\labH\LinkedLists\main.cpp" loc="LinkedList/LinkedList/main.cpp" projPath="LinkedList/LinkedList" project="LinkedList"/>
+      <Loc fsPath="C:\Users\steph\source\repos\Eduard667\labH\LinkedLists\AddressBookSLL.h" loc="LinkedList/LinkedList/AddressBookSLL.h" projPath="LinkedList/LinkedList" project="LinkedList"/>
+      <Loc fsPath="C:\Users\steph\source\repos\Eduard667\labH\LinkedLists\AddressBookSLL.cpp" loc="LinkedList/LinkedList/AddressBookSLL.cpp" projPath="LinkedList/LinkedList" project="LinkedList"/>
+   </Locations>
+   </mergePnt>
+</ResultsSessionDetails>

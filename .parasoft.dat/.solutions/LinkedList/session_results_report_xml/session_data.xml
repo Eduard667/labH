@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ResultsSession>
+   <SessionData configName="500083 rule set 2025" configPseudoUrl="c++test.user://500083 rule set 2025" enabledAnalysis="Static" enabledHandlers="com.parasoft.xtest.checkers.api.scope.factory;com.parasoft.xtest.checkers.api.standards.factory" hasViols="true" header="??:LinkedList:??true??false??" runId="" startTime="1773855586584" tool="c++test">
+      <TestParameters cmdLn="C++test: -config c++test.user://500083 rule set 2025 "/>
+      <Authors>
+         <Author id="dev1" name="steph"/>
+      </Authors>
+      <Selection>
+         <Res id="LinkedList/LinkedList"/>
+      </Selection>
+      <XmlDataFiles file0="C:\Users\steph\source\repos\Eduard667\labH\.parasoft.dat\.solutions\LinkedList\session_results_report_xml\cs_violations.xml"/>
+   </SessionData>
+   <Locations>
+      <Loc fsPath="C:\Users\steph\source\repos\Eduard667\labH\LinkedLists\PersonNode.cpp" loc="LinkedList/LinkedList/PersonNode.cpp" projPath="LinkedList/LinkedList" project="LinkedList"/>
+      <Loc fsPath="C:\Users\steph\source\repos\Eduard667\labH\LinkedLists\PersonNode.h" loc="LinkedList/LinkedList/PersonNode.h" projPath="LinkedList/LinkedList" project="LinkedList"/>
+      <Loc fsPath="C:\Users\steph\source\repos\Eduard667\labH\LinkedLists\main.cpp" loc="LinkedList/LinkedList/main.cpp" projPath="LinkedList/LinkedList" project="LinkedList"/>
+      <Loc fsPath="C:\Users\steph\source\repos\Eduard667\labH\LinkedLists\AddressBookSLL.h" loc="LinkedList/LinkedList/AddressBookSLL.h" projPath="LinkedList/LinkedList" project="LinkedList"/>
+      <Loc fsPath="C:\Users\steph\source\repos\Eduard667\labH\LinkedLists\AddressBookSLL.cpp" loc="LinkedList/LinkedList/AddressBookSLL.cpp" projPath="LinkedList/LinkedList" project="LinkedList"/>
+   </Locations>
+   <CodingStandards>
+      <TestedFilesDetails>
+         <Total name="Suppressed / Total" supp="0" total="23">
+            <Project name="LinkedList" supp="0" total="23">
+               <Res loc="LinkedList/LinkedList/PersonNode.cpp" locType="sr" name="PersonNode.cpp" supp="0" total="3"/>
+               <Res loc="LinkedList/LinkedList/PersonNode.h" locType="sr" name="PersonNode.h" supp="0" total="10"/>
+               <Res loc="LinkedList/LinkedList/main.cpp" locType="sr" name="main.cpp" supp="0" total="1"/>
+               <Res loc="LinkedList/LinkedList/AddressBookSLL.h" locType="sr" name="AddressBookSLL.h" supp="0" total="6"/>
+               <Res loc="LinkedList/LinkedList/AddressBookSLL.cpp" locType="sr" name="AddressBookSLL.cpp" supp="0" total="3"/>
+            </Project>
+         </Total>
+      </TestedFilesDetails>
+   </CodingStandards>
+</ResultsSession>

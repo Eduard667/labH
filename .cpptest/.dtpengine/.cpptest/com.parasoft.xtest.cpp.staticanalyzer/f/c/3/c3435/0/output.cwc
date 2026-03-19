@@ -1,0 +1,150 @@
+<->
+<F>C:\Users\steph\source\repos\Eduard667\labH\LinkedLists\main.cpp
+<c>CODSTA-CPP-53
+<b>Declare local variable 'book' as const
+<l>12
+<k>17
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\steph\source\repos\Eduard667\labH\LinkedLists\AddressBookSLL.h
+<c>CODSTA-07
+<b>Function 'AddressBookSLL' uses ( void )
+<l>8
+<k>2
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\steph\source\repos\Eduard667\labH\LinkedLists\AddressBookSLL.h
+<c>CODSTA-07
+<b>Function '~AddressBookSLL' uses ( void )
+<l>9
+<k>2
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\steph\source\repos\Eduard667\labH\LinkedLists\AddressBookSLL.h
+<c>CODSTA-MCPP-23
+<b>Class 'AddressBookSLL' should be final
+<l>5
+<k>7
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\steph\source\repos\Eduard667\labH\LinkedLists\AddressBookSLL.h
+<c>MRM-49
+<b>Class 'AddressBookSLL' shall declare a copy assignment operator
+<l>5
+<k>7
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\steph\source\repos\Eduard667\labH\LinkedLists\AddressBookSLL.h
+<c>MRM-49
+<b>Class 'AddressBookSLL' shall declare a copy constructor
+<l>5
+<k>7
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\steph\source\repos\Eduard667\labH\LinkedLists\PersonNode.h
+<c>CODSTA-07
+<b>Function 'PersonNode' uses ( void )
+<l>13
+<k>2
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\steph\source\repos\Eduard667\labH\LinkedLists\PersonNode.h
+<c>CODSTA-07
+<b>Function '~PersonNode' uses ( void )
+<l>15
+<k>2
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\steph\source\repos\Eduard667\labH\LinkedLists\PersonNode.h
+<c>OOP-11
+<b>Friend mechanism used for 'AddressBookSLL'
+<l>11
+<k>15
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\steph\source\repos\Eduard667\labH\LinkedLists\PersonNode.h
+<c>OPT-14
+<b>Returned value from function 'getName' is passed by value
+<l>18
+<k>9
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\steph\source\repos\Eduard667\labH\LinkedLists\PersonNode.h
+<c>CODSTA-CPP-81
+<b>PersonNode: the percentage of getters and setters (100.00) is equal or higher than the threshold (100.00)
+<l>9
+<k>7
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\steph\source\repos\Eduard667\labH\LinkedLists\PersonNode.h
+<c>CODSTA-MCPP-23
+<b>Class 'PersonNode' should be final
+<l>9
+<k>7
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\steph\source\repos\Eduard667\labH\LinkedLists\PersonNode.h
+<c>MRM-49
+<b>Class 'PersonNode' shall declare a copy assignment operator
+<l>9
+<k>7
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\steph\source\repos\Eduard667\labH\LinkedLists\PersonNode.h
+<c>MRM-49
+<b>Class 'PersonNode' shall declare a copy constructor
+<l>9
+<k>7
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\steph\source\repos\Eduard667\labH\LinkedLists\PersonNode.h
+<c>OPT-13
+<b>Members 'm_next' of class 'PersonNode' are declared in suboptimal order for memory layout
+<l>9
+<k>7
+<s>false
+<N>
+<f>
+<L>0
