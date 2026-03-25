@@ -50,6 +50,7 @@ else return nullptr (list is empty.
 
 <img width="411" height="565" alt="image" src="https://github.com/user-attachments/assets/7ec56e08-72be-44a9-b12d-b528a0f91936" />
 Method to delete a person. 
+This method uses previous and current pointers and updates them. It also check whether we are at the first node, node in between first and last. 
 
 
 <img width="536" height="243" alt="image" src="https://github.com/user-attachments/assets/48c17fcf-2813-4697-b1df-11340c4646da" />
