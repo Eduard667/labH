@@ -47,10 +47,12 @@ Gets current node (m_head)
 if list is not empty, return the current node
 else return nullptr (list is empty. 
 
-<img width="475" height="672" alt="Screenshot 2026-03-19 at 18 45 00" src="https://github.com/user-attachments/assets/fe50ec3c-4b9f-4694-97c2-b331b2b7d74a" />
+
+<img width="411" height="565" alt="image" src="https://github.com/user-attachments/assets/7ec56e08-72be-44a9-b12d-b528a0f91936" />
 Method to delete a person. 
 
-<img width="602" height="321" alt="Screenshot 2026-03-19 at 18 47 02" src="https://github.com/user-attachments/assets/95d2b3c9-bb28-486e-9d0b-32346eeeabcf" />
+
+<img width="285" height="413" alt="image" src="https://github.com/user-attachments/assets/b53abce3-2598-4a21-bd2d-a7bc69dec9c2" />
 Print method
 
 ### Main.cpp
