@@ -34,7 +34,7 @@ This declares that **m_head** is the end of the linked list
 <img width="384" height="304" alt="Screenshot 2026-03-19 at 18 33 01" src="https://github.com/user-attachments/assets/1130e9a8-d378-441e-b5b8-bb38f61551dc" />
 Destructor has been modified from the original
 
-<img width="607" height="712" alt="Screenshot 2026-03-19 at 18 33 53" src="https://github.com/user-attachments/assets/ca7eea6e-ec24-47fc-85b1-8a81aa086d40" />
+<img width="539" height="602" alt="image" src="https://github.com/user-attachments/assets/727253e2-ab54-47f3-808d-3ac3fe427c75" />
 Methods for AddPerson & FindPerson
 
 ### How AddPerson() works
