@@ -56,6 +56,7 @@ Method to delete a person.
 Print method
 
 ### Main.cpp
-<img width="282" height="443" alt="Screenshot 2026-03-19 at 18 48 37" src="https://github.com/user-attachments/assets/fd55aca8-9d5b-499d-b466-e7b2cd2ecdf2" />
+<img width="285" height="413" alt="image" src="https://github.com/user-attachments/assets/6434c986-fa08-4044-b76f-156f3c708ebe" />
+
 
 
