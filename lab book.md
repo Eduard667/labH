@@ -6,7 +6,7 @@
   Added Getters - getName() and setAge() - made them const (they do not modify the values)
   Added Setters - setName() and setAge()
 
-### PersonNdoe.h
+### PersonNode.h
 
 <img width="705" height="440" alt="Screenshot 2026-03-19 at 18 16 42" src="https://github.com/user-attachments/assets/e5096e68-d0d4-4745-be1d-5bc035d46b55" />
 
