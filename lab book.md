@@ -52,7 +52,8 @@ else return nullptr (list is empty.
 Method to delete a person. 
 
 
-<img width="285" height="413" alt="image" src="https://github.com/user-attachments/assets/b53abce3-2598-4a21-bd2d-a7bc69dec9c2" />
+<img width="536" height="243" alt="image" src="https://github.com/user-attachments/assets/48c17fcf-2813-4697-b1df-11340c4646da" />
+
 Print method
 
 ### Main.cpp
